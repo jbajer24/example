@@ -1,3 +1,3 @@
 # example
 example repo for ICL course
-* important thing
+* a very important thing
